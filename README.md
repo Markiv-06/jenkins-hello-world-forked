@@ -1,4 +1,6 @@
-# Springboot Hello World App
+# Sample repo for understanding the basics of jenkins.
+
+## Springboot Hello World App
 This repository is used for Jenkins Training Demo
 
 ### Build JAR
